@@ -21,6 +21,7 @@ public class FirstFX extends Application{
 		SecClass sc = new SecClass();
 		
 		sc.print("Hallo");
+		System.out.println("Test2");
 		launch(args);
 	}
 
